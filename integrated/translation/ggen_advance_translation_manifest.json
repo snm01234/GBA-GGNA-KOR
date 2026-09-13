@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "kind": "ggen_advance_canonical_translation_source",
+  "canonical_path": "integrated/translation/ggen_advance_translation_merged.json",
+  "source_snapshot": "analysis/ggen_advance_translation_merged_20260913_blue_destiny.json",
+  "sha256": "a3c4a1aa3dfce194f9dc53f89a79503ac9937253db687c55d641e0cb2c3a0433",
+  "source_sha256": "a3c4a1aa3dfce194f9dc53f89a79503ac9937253db687c55d641e0cb2c3a0433",
+  "record_count": 21004,
+  "record_identity_sha256": "edce2504eacacb5b7419cf7e7096b8d1c38c2bcccdef273e4bcf81f34cbfa6e7",
+  "translation_overlay_identity_sha256": "fc76691d3ebb47ef219daccb1563217bb7faf942b258eef70d0d465532eee428",
+  "record_translation_status_counts": {
+    "alias": 207,
+    "needs_review": 156,
+    "pending": 534,
+    "preserve": 678,
+    "translated": 19429
+  },
+  "source_summary_translation_status_counts": {
+    "translated": 19429,
+    "pending": 534,
+    "preserve": 678,
+    "alias": 207,
+    "needs_review": 156
+  },
+  "policy": {
+    "active_source_is_single_path": true,
+    "dated_analysis_snapshots_are_historical": true,
+    "outputs_directory_is_not_translation_source_of_truth": true,
+    "parent_project_references_forbidden": true
+  }
+}

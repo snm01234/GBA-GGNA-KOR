@@ -1,0 +1,1973 @@
+{
+  "kind": "allclear_profile_ui_supplement",
+  "parent_sha256": "93e6fcc262f4fc428caace3d3797cdaae1d46ce7b94b5d5c88bc8bc5cdd7cc5a",
+  "builder": "tools/build_ggen_allclear_profiles_ko_20260912.py",
+  "texts": [
+    {
+      "owner": "0x1abf78",
+      "jp": "アイシャ",
+      "ko": "아이샤",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81855d9",
+      "pointer": "0x9114000",
+      "encoded_hex": "e093e0a3e61b00"
+    },
+    {
+      "owner": "0x1abf88",
+      "jp": "アイナ・サハリン1",
+      "ko": "아이나 사할린1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81855ec",
+      "pointer": "0x9114007",
+      "encoded_hex": "e093e0a3e6c401e6bde674e573e00000"
+    },
+    {
+      "owner": "0x1abf98",
+      "jp": "アイナ・サハリン2",
+      "ko": "아이나 사할린2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185604",
+      "pointer": "0x9114017",
+      "encoded_hex": "e093e0a3e6c401e6bde674e573e00100"
+    },
+    {
+      "owner": "0x1abfa8",
+      "jp": "アスラン・ザラ1",
+      "ko": "아스란 자라1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818561b",
+      "pointer": "0x9114027",
+      "encoded_hex": "e093e6c7e59b01e6c3e06ce00000"
+    },
+    {
+      "owner": "0x1abfb8",
+      "jp": "アスラン・ザラ2",
+      "ko": "아스란 자라2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818562d",
+      "pointer": "0x9114035",
+      "encoded_hex": "e093e6c7e59b01e6c3e06ce00100"
+    },
+    {
+      "owner": "0x1abfc8",
+      "jp": "アスラン・ザラ3",
+      "ko": "아스란 자라3",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185648",
+      "pointer": "0x9114043",
+      "encoded_hex": "e093e6c7e59b01e6c3e06ce00200"
+    },
+    {
+      "owner": "0x1abfd8",
+      "jp": "アナベル・ガトー",
+      "ko": "아나벨 가토",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818565b",
+      "pointer": "0x9114051",
+      "encoded_hex": "e093e6c4e59701e033e61700"
+    },
+    {
+      "owner": "0x1abfe8",
+      "jp": "アムロ・レイ1",
+      "ko": "아무로 레이1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185671",
+      "pointer": "0x911405d",
+      "encoded_hex": "e093e68fe6ca01e67fe0a3e00000"
+    },
+    {
+      "owner": "0x1abff8",
+      "jp": "アムロ・レイ2",
+      "ko": "아무로 레이2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185687",
+      "pointer": "0x911406b",
+      "encoded_hex": "e093e68fe6ca01e67fe0a3e00100"
+    },
+    {
+      "owner": "0x1ac008",
+      "jp": "アルフ・カムラ",
+      "ko": "알프 카무라",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185696",
+      "pointer": "0x9114079",
+      "encoded_hex": "e624e0d901e654e68fe06c00"
+    },
+    {
+      "owner": "0x1ac018",
+      "jp": "アルファ・A・ベイト",
+      "ko": "알파 A 베이트",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81856a7",
+      "pointer": "0x9114085",
+      "encoded_hex": "e624e672010301e611e0a3e69b00"
+    },
+    {
+      "owner": "0x1ac028",
+      "jp": "アレックス",
+      "ko": "알렉스",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81856b4",
+      "pointer": "0x9114093",
+      "encoded_hex": "e624e45fe6c700"
+    },
+    {
+      "owner": "0x1ac038",
+      "jp": "イーノ・アッバーブ",
+      "ko": "이노 아바브",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81856c1",
+      "pointer": "0x911409a",
+      "encoded_hex": "e0a3e62101e093e679e61f00"
+    },
+    {
+      "owner": "0x1ac048",
+      "jp": "ウッソ・エヴィン",
+      "ko": "웃소 에빈",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81856d2",
+      "pointer": "0x91140a6",
+      "encoded_hex": "e351e68001e6cce44400"
+    },
+    {
+      "owner": "0x1ac058",
+      "jp": "ウッディ・マルデン",
+      "ko": "우디 마르덴",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81856e3",
+      "pointer": "0x91140b0",
+      "encoded_hex": "e6a3e66c01e6aee65ee4fa00"
+    },
+    {
+      "owner": "0x1ac068",
+      "jp": "ウラガン",
+      "ko": "우라간",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81856f2",
+      "pointer": "0x91140bc",
+      "encoded_hex": "e6a3e06ce66600"
+    },
+    {
+      "owner": "0x1ac078",
+      "jp": "エイパー・シナプス",
+      "ko": "에이퍼 시냅스",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185701",
+      "pointer": "0x91140c3",
+      "encoded_hex": "e6cce0a3e59901e6b2e206e6c700"
+    },
+    {
+      "owner": "0x1ac088",
+      "jp": "エギーユ・デラーズ",
+      "ko": "에규 데라즈",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185715",
+      "pointer": "0x91140d1",
+      "encoded_hex": "e6cce2c501e657e06ce65800"
+    },
+    {
+      "owner": "0x1ac098",
+      "jp": "エル・ビアンノ",
+      "ko": "엘 비안노",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185727",
+      "pointer": "0x91140dd",
+      "encoded_hex": "e49601e67ae678e62100"
+    },
+    {
+      "owner": "0x1ac0a8",
+      "jp": "オルテガ",
+      "ko": "오르테가",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185732",
+      "pointer": "0x91140e7",
+      "encoded_hex": "e69ae65ee608e03300"
+    },
+    {
+      "owner": "0x1ac0b8",
+      "jp": "オルバ・フロスト1",
+      "ko": "올바 프로스트1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185743",
+      "pointer": "0x91140f0",
+      "encoded_hex": "e4d5e67901e0d9e6cae6c7e69be00000"
+    },
+    {
+      "owner": "0x1ac0c8",
+      "jp": "オルバ・フロスト2",
+      "ko": "올바 프로스트2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818575b",
+      "pointer": "0x9114100",
+      "encoded_hex": "e4d5e67901e0d9e6cae6c7e69be00100"
+    },
+    {
+      "owner": "0x1ac0d8",
+      "jp": "カイ・シデン",
+      "ko": "카이 시덴",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818576b",
+      "pointer": "0x9114110",
+      "encoded_hex": "e654e0a301e6b2e4fa00"
+    },
+    {
+      "owner": "0x1ac0e8",
+      "jp": "ガイア",
+      "ko": "가이아",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185778",
+      "pointer": "0x911411a",
+      "encoded_hex": "e033e0a3e09300"
+    },
+    {
+      "owner": "0x1ac0f8",
+      "jp": "ガイア2",
+      "ko": "가이아2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185782",
+      "pointer": "0x9114121",
+      "encoded_hex": "e033e0a3e093e00100"
+    },
+    {
+      "owner": "0x1ac108",
+      "jp": "カミーユ・ビダン",
+      "ko": "카미유 비단",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185790",
+      "pointer": "0x911412a",
+      "encoded_hex": "e654e69ce09f01e67ae5d200"
+    },
+    {
+      "owner": "0x1ac118",
+      "jp": "カミーユ・ビダン<H>",
+      "ko": "카미유 비단H",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81857a6",
+      "pointer": "0x9114136",
+      "encoded_hex": "e654e69ce09f01e67ae5d2e00900"
+    },
+    {
+      "owner": "0x1ac128",
+      "jp": "ガルマ・ザビ",
+      "ko": "가르마 자비",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81857bb",
+      "pointer": "0x9114144",
+      "encoded_hex": "e033e65ee6ae01e6c3e67a00"
+    },
+    {
+      "owner": "0x1ac138",
+      "jp": "カレン・ジョシュア",
+      "ko": "카렌 조슈아",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81857cc",
+      "pointer": "0x9114150",
+      "encoded_hex": "e654e58101e631e5dfe09300"
+    },
+    {
+      "owner": "0x1ac148",
+      "jp": "ガロード・ラン",
+      "ko": "가로드 란",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81857de",
+      "pointer": "0x911415c",
+      "encoded_hex": "e033e6cae69f01e59b00"
+    },
+    {
+      "owner": "0x1ac158",
+      "jp": "キシリア・ザビ",
+      "ko": "키시리아 자비",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81857ee",
+      "pointer": "0x9114166",
+      "encoded_hex": "e623e6b2e6bfe09301e6c3e67a00"
+    },
+    {
+      "owner": "0x1ac168",
+      "jp": "ギニアス・サハリン1",
+      "ko": "기니아스 사할린1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185805",
+      "pointer": "0x9114174",
+      "encoded_hex": "e6c6e6c5e093e6c701e6bde674e573e00000"
+    },
+    {
+      "owner": "0x1ac178",
+      "jp": "ギニアス・サハリン2",
+      "ko": "기니아스 사할린2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818581f",
+      "pointer": "0x9114186",
+      "encoded_hex": "e6c6e6c5e093e6c701e6bde674e573e00100"
+    },
+    {
+      "owner": "0x1ac188",
+      "jp": "キャスバル・レム・ダイクン",
+      "ko": "캐스발 렘 다이쿤",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185832",
+      "pointer": "0x9114198",
+      "encoded_hex": "e0bce6c7e64201e07401e062e0a3e17a00"
+    },
+    {
+      "owner": "0x1ac198",
+      "jp": "キラ・ヤマト1",
+      "ko": "키라 야마토1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185849",
+      "pointer": "0x91141a9",
+      "encoded_hex": "e623e06c01e68ce6aee617e00000"
+    },
+    {
+      "owner": "0x1ac1a8",
+      "jp": "キラ・ヤマト<S???>",
+      "ko": "키라 야마토S",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185862",
+      "pointer": "0x91141b7",
+      "encoded_hex": "e623e06c01e68ce6aee6170d00"
+    },
+    {
+      "owner": "0x1ac1b8",
+      "jp": "キラ・ヤマト2",
+      "ko": "키라 야마토2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185881",
+      "pointer": "0x91141c4",
+      "encoded_hex": "e623e06c01e68ce6aee617e00100"
+    },
+    {
+      "owner": "0x1ac1c8",
+      "jp": "キリング",
+      "ko": "킬링",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818588f",
+      "pointer": "0x91141d2",
+      "encoded_hex": "e36ae1f000"
+    },
+    {
+      "owner": "0x1ac1d8",
+      "jp": "ギレン・ザビ",
+      "ko": "기렌 자비",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818589b",
+      "pointer": "0x91141d7",
+      "encoded_hex": "e6c6e58101e6c3e67a00"
+    },
+    {
+      "owner": "0x1ac1e8",
+      "jp": "ククルス・ドアン",
+      "ko": "쿠쿠루스 도안",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81858ab",
+      "pointer": "0x91141e1",
+      "encoded_hex": "e5c7e5c7e56ee6c701e6bbe67800"
+    },
+    {
+      "owner": "0x1ac1f8",
+      "jp": "ククルス・ドアン<H>",
+      "ko": "쿠쿠루스 도안H",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81858c3",
+      "pointer": "0x91141ef",
+      "encoded_hex": "e5c7e5c7e56ee6c701e6bbe678e00900"
+    },
+    {
+      "owner": "0x1ac208",
+      "jp": "クラウレ・ハモン",
+      "ko": "클라우레 하몬",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81858db",
+      "pointer": "0x91141ff",
+      "encoded_hex": "e4bfe06ce6a3e67f01e0dee55100"
+    },
+    {
+      "owner": "0x1ac218",
+      "jp": "クランプ",
+      "ko": "클램프",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81858e7",
+      "pointer": "0x911420d",
+      "encoded_hex": "e4bfe0dde0d900"
+    },
+    {
+      "owner": "0x1ac228",
+      "jp": "クリスチーナ・マッケンジー",
+      "ko": "크리스티나 맥켄지",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81858f7",
+      "pointer": "0x9114214",
+      "encoded_hex": "e682e6bfe6c7e60ce6c401e2a5e21ae0ab00"
+    },
+    {
+      "owner": "0x1ac238",
+      "jp": "ケリィ・レズナー",
+      "ko": "케리 레즈너",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818590d",
+      "pointer": "0x9114226",
+      "encoded_hex": "e4c2e6bf01e67fe658e65b00"
+    },
+    {
+      "owner": "0x1ac248",
+      "jp": "コウ・ウラキ",
+      "ko": "코우 우라키",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818591c",
+      "pointer": "0x9114232",
+      "encoded_hex": "e606e6a301e6a3e06ce62300"
+    },
+    {
+      "owner": "0x1ac258",
+      "jp": "サウス・バニング",
+      "ko": "사우스 버닝",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818592b",
+      "pointer": "0x911423e",
+      "encoded_hex": "e6bde6a3e6c701e664e4b200"
+    },
+    {
+      "owner": "0x1ac268",
+      "jp": "サマナ・フュリス",
+      "ko": "사마나 퓨리스",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818593d",
+      "pointer": "0x911424a",
+      "encoded_hex": "e6bde6aee6c401e0d8e6bfe6c700"
+    },
+    {
+      "owner": "0x1ac278",
+      "jp": "シーブック・アノー",
+      "ko": "시북 아노",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185950",
+      "pointer": "0x9114258",
+      "encoded_hex": "e6b2e23701e093e62100"
+    },
+    {
+      "owner": "0x1ac288",
+      "jp": "シーマ・ガラハウ1",
+      "ko": "시마 가라하우1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185962",
+      "pointer": "0x9114262",
+      "encoded_hex": "e6b2e6ae01e033e06ce0dee6a3e00000"
+    },
+    {
+      "owner": "0x1ac298",
+      "jp": "シーマ・ガラハウ2",
+      "ko": "시마 가라하우2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818597b",
+      "pointer": "0x9114272",
+      "encoded_hex": "e6b2e6ae01e033e06ce0dee6a3e00100"
+    },
+    {
+      "owner": "0x1ac2a8",
+      "jp": "シャア・アズナブル",
+      "ko": "샤아 아즈나블",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x818598e",
+      "pointer": "0x9114282",
+      "encoded_hex": "e61be09301e093e658e6c4e47c00"
+    },
+    {
+      "owner": "0x1ac2b8",
+      "jp": "シャギア・フロスト1",
+      "ko": "샤기아 프로스트1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81859a6",
+      "pointer": "0x9114290",
+      "encoded_hex": "e61be6c6e09301e0d9e6cae6c7e69be00000"
+    },
+    {
+      "owner": "0x1ac2c8",
+      "jp": "シャギア・フロスト2",
+      "ko": "샤기아 프로스트2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81859c0",
+      "pointer": "0x91142a2",
+      "encoded_hex": "e61be6c6e09301e0d9e6cae6c7e69be00100"
+    },
+    {
+      "owner": "0x1ac2d8",
+      "jp": "ジャミトフ・ハイマン",
+      "ko": "자미토프 하이만",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81859d5",
+      "pointer": "0x91142b4",
+      "encoded_hex": "e6c3e69ce617e0d901e0dee0a3e6a100"
+    },
+    {
+      "owner": "0x1ac2e8",
+      "jp": "シュタイナー・ハーディ",
+      "ko": "슈타이너 하디",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x81859ec",
+      "pointer": "0x91142c4",
+      "encoded_hex": "e5dfe64be0a3e65b01e0dee66c00"
+    },
+    {
+      "owner": "0x1ac2f8",
+      "jp": "ジュドー・アーシタ",
+      "ko": "쥬도 아시타",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a00",
+      "pointer": "0x91142d2",
+      "encoded_hex": "e43de6bb01e093e6b2e64b00"
+    },
+    {
+      "owner": "0x1ac308",
+      "jp": "ジョニー・ライデン",
+      "ko": "조니 라이덴",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a0e",
+      "pointer": "0x91142de",
+      "encoded_hex": "e631e6c501e06ce0a3e4fa00"
+    },
+    {
+      "owner": "0x1ac318",
+      "jp": "シロー・アマダ1",
+      "ko": "시로 아마다1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a1c",
+      "pointer": "0x91142ea",
+      "encoded_hex": "e6b2e6ca01e093e6aee062e00000"
+    },
+    {
+      "owner": "0x1ac328",
+      "jp": "シロー・アマダ2",
+      "ko": "시로 아마다2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a34",
+      "pointer": "0x91142f8",
+      "encoded_hex": "e6b2e6ca01e093e6aee062e00100"
+    },
+    {
+      "owner": "0x1ac338",
+      "jp": "シン・マツナガ",
+      "ko": "신 마츠나가",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a44",
+      "pointer": "0x9114306",
+      "encoded_hex": "e6ad01e6aee5dae6c4e03300"
+    },
+    {
+      "owner": "0x1ac348",
+      "jp": "スレッガー・ロウ",
+      "ko": "슬레거 로우",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a53",
+      "pointer": "0x9114312",
+      "encoded_hex": "e40ee67fe68601e6cae6a300"
+    },
+    {
+      "owner": "0x1ac358",
+      "jp": "セイラ・マス",
+      "ko": "세이라 마스",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a63",
+      "pointer": "0x911431e",
+      "encoded_hex": "e660e0a3e06c01e6aee6c700"
+    },
+    {
+      "owner": "0x1ac368",
+      "jp": "ゼクス・マーキス",
+      "ko": "젝스 마키스",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a73",
+      "pointer": "0x911432a",
+      "encoded_hex": "e3a6e6c701e6aee623e6c700"
+    },
+    {
+      "owner": "0x1ac378",
+      "jp": "ゼロ・ムラサメ",
+      "ko": "제로 무라사메",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a84",
+      "pointer": "0x9114336",
+      "encoded_hex": "e68de6ca01e68fe06ce6bde62000"
+    },
+    {
+      "owner": "0x1ac388",
+      "jp": "プロト・ゼロ",
+      "ko": "프로토 제로",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185a93",
+      "pointer": "0x9114344",
+      "encoded_hex": "e0d9e6cae61701e68de6ca00"
+    },
+    {
+      "owner": "0x1ac398",
+      "jp": "チャック・キース",
+      "ko": "척 키스",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185aa3",
+      "pointer": "0x9114350",
+      "encoded_hex": "e34c01e623e6c700"
+    },
+    {
+      "owner": "0x1ac3a8",
+      "jp": "チャップ・アデル",
+      "ko": "채프 아델",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ab5",
+      "pointer": "0x9114358",
+      "encoded_hex": "e3e5e0d901e093e3f100"
+    },
+    {
+      "owner": "0x1ac3b8",
+      "jp": "ディアナ・ソレル",
+      "ko": "디아나 소렐",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ac5",
+      "pointer": "0x9114362",
+      "encoded_hex": "e66ce093e6c401e680e23c00"
+    },
+    {
+      "owner": "0x1ac3c8",
+      "jp": "ティアンム",
+      "ko": "티안무",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ad2",
+      "pointer": "0x911436e",
+      "encoded_hex": "e60ce678e68f00"
+    },
+    {
+      "owner": "0x1ac3d8",
+      "jp": "ティファ",
+      "ko": "티파",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ae3",
+      "pointer": "0x9114375",
+      "encoded_hex": "e60ce67200"
+    },
+    {
+      "owner": "0x1ac3e8",
+      "jp": "デギン・ザビ",
+      "ko": "데긴 자비",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185aef",
+      "pointer": "0x911437a",
+      "encoded_hex": "e657e4e301e6c3e67a00"
+    },
+    {
+      "owner": "0x1ac3f8",
+      "jp": "デトローフ・コッセル",
+      "ko": "데트로프 콧셀",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185b01",
+      "pointer": "0x9114384",
+      "encoded_hex": "e657e69be6cae0d901e0c2e3ac00"
+    },
+    {
+      "owner": "0x1ac408",
+      "jp": "テリー・サンダース",
+      "ko": "테리 샌더스",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185b16",
+      "pointer": "0x9114392",
+      "encoded_hex": "e608e6bf01e116e61ae6c700"
+    },
+    {
+      "owner": "0x1ac418",
+      "jp": "デルマイユ公爵",
+      "ko": "델마이유 공작",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185b2a",
+      "pointer": "0x911439e",
+      "encoded_hex": "e3f1e6aee0a3e09f01e6aae5f200"
+    },
+    {
+      "owner": "0x1ac428",
+      "jp": "東方不敗 マスター・アジア",
+      "ko": "동방불패 마스터 아시아",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185b40",
+      "pointer": "0x91143ac",
+      "encoded_hex": "e692e695e086e57601e6aee6c7e65301e093e6b2e09300"
+    },
+    {
+      "owner": "0x1ac438",
+      "jp": "ドクターJ",
+      "ko": "닥터 J",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185b52",
+      "pointer": "0x91143c3",
+      "encoded_hex": "e383e653010a00"
+    },
+    {
+      "owner": "0x1ac448",
+      "jp": "ドズル・ザビ",
+      "ko": "도즐 자비",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185b5f",
+      "pointer": "0x91143ca",
+      "encoded_hex": "e6bbe34f01e6c3e67a00"
+    },
+    {
+      "owner": "0x1ac458",
+      "jp": "ドモン・カッシュ",
+      "ko": "도몬 캇슈",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185b6d",
+      "pointer": "0x91143d4",
+      "encoded_hex": "e6bbe55101e0bbe5df00"
+    },
+    {
+      "owner": "0x1ac468",
+      "jp": "ドモン・カッシュ<?鏡>",
+      "ko": "도몬 캇슈 명경",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185b87",
+      "pointer": "0x91143de",
+      "encoded_hex": "e6bbe55101e0bbe5df01e67be59600"
+    },
+    {
+      "owner": "0x1ac478",
+      "jp": "ナタル・バジルール",
+      "ko": "나탈 바지룰",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ba0",
+      "pointer": "0x91143ed",
+      "encoded_hex": "e6c4e30b01e679e0abe12800"
+    },
+    {
+      "owner": "0x1ac488",
+      "jp": "ニナ・パープルトン",
+      "ko": "니나 퍼플턴",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185bb4",
+      "pointer": "0x91143f9",
+      "encoded_hex": "e6c5e6c401e599e5fbe65a00"
+    },
+    {
+      "owner": "0x1ac498",
+      "jp": "ニムバス・シュターゼン",
+      "ko": "님버스 슈타젠",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185bc4",
+      "pointer": "0x9114405",
+      "encoded_hex": "e5b2e664e6c701e5dfe64be56300"
+    },
+    {
+      "owner": "0x1ac4a8",
+      "jp": "ノイエン・ビッター",
+      "ko": "노이엔 비터",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185bd4",
+      "pointer": "0x9114413",
+      "encoded_hex": "e621e0a3e59a01e67ae65300"
+    },
+    {
+      "owner": "0x1ac4b8",
+      "jp": "ノリス・パッカード",
+      "ko": "노리스 패커드",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185be8",
+      "pointer": "0x911441f",
+      "encoded_hex": "e621e6bfe6c701e576e565e69f00"
+    },
+    {
+      "owner": "0x1ac4c8",
+      "jp": "バーナード・ワイズマン",
+      "ko": "버나드 와이즈먼",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185bff",
+      "pointer": "0x911442d",
+      "encoded_hex": "e664e6c4e69f01e688e0a3e658e35e00"
+    },
+    {
+      "owner": "0x1ac4d8",
+      "jp": "バスク・オム",
+      "ko": "바스크 옴",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185c13",
+      "pointer": "0x911443d",
+      "encoded_hex": "e679e6c7e68201e29700"
+    },
+    {
+      "owner": "0x1ac4e8",
+      "jp": "ハマーン・カーン",
+      "ko": "하만 칸",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185c23",
+      "pointer": "0x9114447",
+      "encoded_hex": "e0dee6a101e4d200"
+    },
+    {
+      "owner": "0x1ac4f8",
+      "jp": "ハヤト・コバヤシ",
+      "ko": "하야토 코바야시",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185c35",
+      "pointer": "0x911444f",
+      "encoded_hex": "e0dee68ce61701e606e679e68ce6b200"
+    },
+    {
+      "owner": "0x1ac508",
+      "jp": "ハリー・オード",
+      "ko": "해리 오드",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185c46",
+      "pointer": "0x911445f",
+      "encoded_hex": "e6abe6bf01e69ae69f00"
+    },
+    {
+      "owner": "0x1ac518",
+      "jp": "アンディ・バルトフェルド",
+      "ko": "앤드루 발트펠트",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185c5d",
+      "pointer": "0x9114469",
+      "encoded_hex": "e42ae69fe56e01e642e69be0cee69b00"
+    },
+    {
+      "owner": "0x1ac528",
+      "jp": "ハンゲルグ・エヴィン",
+      "ko": "한게르그 에빈",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185c73",
+      "pointer": "0x9114479",
+      "encoded_hex": "e6b6e6ace65ee6bc01e6cce44400"
+    },
+    {
+      "owner": "0x1ac538",
+      "jp": "ビーチャ・オーレグ",
+      "ko": "비챠 올레그",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185c86",
+      "pointer": "0x9114487",
+      "encoded_hex": "e67ae0b101e4d5e67fe6bc00"
+    },
+    {
+      "owner": "0x1ac548",
+      "jp": "ヒイロ・ユイ",
+      "ko": "히이로 유이",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185c97",
+      "pointer": "0x9114493",
+      "encoded_hex": "e661e0a3e6ca01e09fe0a300"
+    },
+    {
+      "owner": "0x1ac558",
+      "jp": "フィリップ・ヒューズ",
+      "ko": "필리프 휴즈",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ca9",
+      "pointer": "0x911449f",
+      "encoded_hex": "e57de6bfe0d901e0e9e65800"
+    },
+    {
+      "owner": "0x1ac568",
+      "jp": "フィル・アッカマン",
+      "ko": "필 아카만",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185cbe",
+      "pointer": "0x91144ab",
+      "encoded_hex": "e57d01e093e654e6a100"
+    },
+    {
+      "owner": "0x1ac578",
+      "jp": "ブライト・ノア",
+      "ko": "브라이트 노아",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185cd0",
+      "pointer": "0x91144b5",
+      "encoded_hex": "e61fe06ce0a3e69b01e621e09300"
+    },
+    {
+      "owner": "0x1ac588",
+      "jp": "フランクリン・ビダン",
+      "ko": "프랭클린 비단",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ce2",
+      "pointer": "0x91144c3",
+      "encoded_hex": "e0d9e073e4bfe57301e67ae5d200"
+    },
+    {
+      "owner": "0x1ac598",
+      "jp": "プリベンター・ウィンド",
+      "ko": "프리벤터 윈드",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185cf6",
+      "pointer": "0x91144d1",
+      "encoded_hex": "e0d9e6bfe3ade65301e09ae69f00"
+    },
+    {
+      "owner": "0x1ac5a8",
+      "jp": "ベルナルド・モンシア",
+      "ko": "베르나르도 몬시아",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185d0b",
+      "pointer": "0x91144df",
+      "encoded_hex": "e611e65ee6c4e65ee6bb01e551e6b2e09300"
+    },
+    {
+      "owner": "0x1ac5b8",
+      "jp": "ポゥ・エイジ",
+      "ko": "포우 에이지",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185d1e",
+      "pointer": "0x91144f1",
+      "encoded_hex": "e669e6a301e6cce0a3e0ab00"
+    },
+    {
+      "owner": "0x1ac5c8",
+      "jp": "ポゥ・エイジ<泣>",
+      "ko": "포우 에이지 울음",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185d34",
+      "pointer": "0x91144fd",
+      "encoded_hex": "e669e6a301e6cce0a3e0ab01e4dde6a900"
+    },
+    {
+      "owner": "0x1ac5d8",
+      "jp": "マ・クベ",
+      "ko": "마 쿠베",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185d47",
+      "pointer": "0x911450e",
+      "encoded_hex": "e6ae01e5c7e61100"
+    },
+    {
+      "owner": "0x1ac5e8",
+      "jp": "マーカー・クラン",
+      "ko": "마커 클랜",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185d55",
+      "pointer": "0x9114516",
+      "encoded_hex": "e6aee56501e4bfe37f00"
+    },
+    {
+      "owner": "0x1ac5f8",
+      "jp": "マチルダ・アジャン",
+      "ko": "마틸다 아쟌",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185d68",
+      "pointer": "0x9114520",
+      "encoded_hex": "e6aee0cce06201e093e0a500"
+    },
+    {
+      "owner": "0x1ac608",
+      "jp": "マッシュ",
+      "ko": "마슈",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185d75",
+      "pointer": "0x911452c",
+      "encoded_hex": "e6aee5df00"
+    },
+    {
+      "owner": "0x1ac618",
+      "jp": "マリオン・ウェルチ",
+      "ko": "마리온 웰치",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185d80",
+      "pointer": "0x9114531",
+      "encoded_hex": "e6aee6bfe65c01e022e62b00"
+    },
+    {
+      "owner": "0x1ac628",
+      "jp": "マリュー・ラミアス1",
+      "ko": "마류 라미아스1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185d99",
+      "pointer": "0x911453d",
+      "encoded_hex": "e6aee50a01e06ce69ce093e6c7e00000"
+    },
+    {
+      "owner": "0x1ac638",
+      "jp": "マリュー・ラミアス2",
+      "ko": "마류 라미아스2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185db7",
+      "pointer": "0x911454d",
+      "encoded_hex": "e6aee50a01e06ce69ce093e6c7e00100"
+    },
+    {
+      "owner": "0x1ac648",
+      "jp": "ミーシャ",
+      "ko": "미샤",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185dcf",
+      "pointer": "0x911455d",
+      "encoded_hex": "e69ce61b00"
+    },
+    {
+      "owner": "0x1ac658",
+      "jp": "ミカムラ博士",
+      "ko": "미카무라 박사",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185dda",
+      "pointer": "0x9114562",
+      "encoded_hex": "e69ce654e68fe06c01e2e8e6bd00"
+    },
+    {
+      "owner": "0x1ac668",
+      "jp": "ミュラー",
+      "ko": "뮐러",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185de5",
+      "pointer": "0x9114570",
+      "encoded_hex": "e081e65900"
+    },
+    {
+      "owner": "0x1ac678",
+      "jp": "ミリアルド・ピースクラフト",
+      "ko": "밀리아르도 피스크래프트",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185df7",
+      "pointer": "0x9114575",
+      "encoded_hex": "e501e6bfe093e65ee6bb01e66de6c7e682e632e0d9e69b00"
+    },
+    {
+      "owner": "0x1ac688",
+      "jp": "ムウ・ラ・フラガ",
+      "ko": "무우 라 프라가",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185e0d",
+      "pointer": "0x911458d",
+      "encoded_hex": "e68fe6a301e06c01e0d9e06ce03300"
+    },
+    {
+      "owner": "0x1ac698",
+      "jp": "モーリン・キタムラ",
+      "ko": "모린 키타무라",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185e20",
+      "pointer": "0x911459c",
+      "encoded_hex": "e687e57301e623e64be68fe06c00"
+    },
+    {
+      "owner": "0x1ac6a8",
+      "jp": "モンド・アガケ",
+      "ko": "몬도 아가케",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185e31",
+      "pointer": "0x91145aa",
+      "encoded_hex": "e551e6bb01e093e033e4c200"
+    },
+    {
+      "owner": "0x1ac6b8",
+      "jp": "ヤザン・ゲーブル",
+      "ko": "야잔 게이블",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185e41",
+      "pointer": "0x91145b6",
+      "encoded_hex": "e68ce51301e6ace0a3e47c00"
+    },
+    {
+      "owner": "0x1ac6c8",
+      "jp": "ユウ・カジマ1",
+      "ko": "유 카지마1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185e59",
+      "pointer": "0x91145c2",
+      "encoded_hex": "e09f01e654e0abe6aee00000"
+    },
+    {
+      "owner": "0x1ac6d8",
+      "jp": "ユウ・カジマ2",
+      "ko": "유 카지마2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185e73",
+      "pointer": "0x91145ce",
+      "encoded_hex": "e09f01e654e0abe6aee00100"
+    },
+    {
+      "owner": "0x1ac6e8",
+      "jp": "ライゾウ・カッシュ",
+      "ko": "라이조 캐시",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185e85",
+      "pointer": "0x91145da",
+      "encoded_hex": "e06ce0a3e63101e0bce6b200"
+    },
+    {
+      "owner": "0x1ac6f8",
+      "jp": "ラウ・ル・クルーゼ1",
+      "ko": "라우 르 크루제1",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185e9f",
+      "pointer": "0x91145e6",
+      "encoded_hex": "e06ce6a301e65e01e682e56ee68de00000"
+    },
+    {
+      "owner": "0x1ac708",
+      "jp": "ラウ・ル・クルーゼ2",
+      "ko": "라우 르 크루제2",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ebd",
+      "pointer": "0x91145f7",
+      "encoded_hex": "e06ce6a301e65e01e682e56ee68de00100"
+    },
+    {
+      "owner": "0x1ac718",
+      "jp": "ララァ・スン",
+      "ko": "라라아 슨",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ed0",
+      "pointer": "0x9114608",
+      "encoded_hex": "e06ce06ce09301e57700"
+    },
+    {
+      "owner": "0x1ac728",
+      "jp": "ランバ・ラル",
+      "ko": "람바 랄",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185ede",
+      "pointer": "0x9114612",
+      "encoded_hex": "e5c2e67901e06f00"
+    },
+    {
+      "owner": "0x1ac738",
+      "jp": "リィナ・アーシタ",
+      "ko": "리나 아시타",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185eec",
+      "pointer": "0x911461a",
+      "encoded_hex": "e6bfe6c401e093e6b2e64b00"
+    },
+    {
+      "owner": "0x1ac748",
+      "jp": "ルクレツィア・ノイン",
+      "ko": "루크레치아 노인",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185efe",
+      "pointer": "0x9114626",
+      "encoded_hex": "e56ee682e67fe62be09301e621e6b000"
+    },
+    {
+      "owner": "0x1ac758",
+      "jp": "レイラ・レイモンド",
+      "ko": "레이라 레이먼드",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185f12",
+      "pointer": "0x9114636",
+      "encoded_hex": "e67fe0a3e06c01e67fe0a3e35ee69f00"
+    },
+    {
+      "owner": "0x1ac768",
+      "jp": "NT-001",
+      "ko": "NT-0011",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185f24",
+      "pointer": "0x9114646",
+      "encoded_hex": "e00d0ee0590202e000e00000"
+    },
+    {
+      "owner": "0x1ac778",
+      "jp": "レイン・ミカムラ",
+      "ko": "레인 미카무라",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185f34",
+      "pointer": "0x9114652",
+      "encoded_hex": "e67fe6b001e69ce654e68fe06c00"
+    },
+    {
+      "owner": "0x1ac788",
+      "jp": "レビル",
+      "ko": "레빌",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185f3f",
+      "pointer": "0x9114660",
+      "encoded_hex": "e67fe56b00"
+    },
+    {
+      "owner": "0x1ac798",
+      "jp": "ローラ・ローラ",
+      "ko": "로라 로라",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185f4b",
+      "pointer": "0x9114665",
+      "encoded_hex": "e6cae06c01e6cae06c00"
+    },
+    {
+      "owner": "0x1ac7a8",
+      "jp": "ロラン・セアック",
+      "ko": "로랑 세아크",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185f5b",
+      "pointer": "0x911466f",
+      "encoded_hex": "e6cae54301e660e093e68200"
+    },
+    {
+      "owner": "0x1ac7b8",
+      "jp": "ロラン・チュアン",
+      "ko": "로랑 추안",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185f6b",
+      "pointer": "0x911467b",
+      "encoded_hex": "e6cae54301e566e67800"
+    },
+    {
+      "owner": "0x1ac7c8",
+      "jp": "ワッケイン",
+      "ko": "왓케인",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185f7a",
+      "pointer": "0x9114685",
+      "encoded_hex": "e099e4c2e6b000"
+    },
+    {
+      "owner": "0x1ac7d8",
+      "jp": "ヘリオポリスの少年",
+      "ko": "헬리오폴리스의 소년",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185f8e",
+      "pointer": "0x911468c",
+      "encoded_hex": "e0e4e6bfe69ae305e6bfe6c7e6c901e680e50c00"
+    },
+    {
+      "owner": "0x1ac7e8",
+      "jp": "カガリ・ユラ・アスハ",
+      "ko": "카가리 유라 아스하",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185fa5",
+      "pointer": "0x91146a0",
+      "encoded_hex": "e654e033e6bf01e09fe06c01e093e6c7e0de00"
+    },
+    {
+      "owner": "0x1ac7f8",
+      "jp": "ウズミ・ナラ・アスハ",
+      "ko": "우즈미 나라 아스하",
+      "mode": 8,
+      "kind": "character_short_name",
+      "original_pointer": "0x8185fb9",
+      "pointer": "0x91146b3",
+      "encoded_hex": "e6a3e658e69c01e6c4e06c01e093e6c7e0de00"
+    },
+    {
+      "owner": "0x18dc3c",
+      "ko": "붉은 혜성",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d32c",
+      "pointer": "0x91146c6",
+      "encoded_hex": "e47ee6b801e5fce66800"
+    },
+    {
+      "owner": "0x18dc44",
+      "ko": "전투의 공포",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d334",
+      "pointer": "0x91146d0",
+      "encoded_hex": "e6cde6b1e6c901e6aae66900"
+    },
+    {
+      "owner": "0x18dc4c",
+      "ko": "작열",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d33e",
+      "pointer": "0x91146dc",
+      "encoded_hex": "e5f2e67600"
+    },
+    {
+      "owner": "0x18dc54",
+      "ko": "늠름한 샤아",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d343",
+      "pointer": "0x91146e1",
+      "encoded_hex": "e545e561e6b601e61be09300"
+    },
+    {
+      "owner": "0x18dc5c",
+      "ko": "애전사",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d34c",
+      "pointer": "0x91146ed",
+      "encoded_hex": "e515e6cde6bd00"
+    },
+    {
+      "owner": "0x18dc64",
+      "ko": "바람에 홀로",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d351",
+      "pointer": "0x91146f4",
+      "encoded_hex": "e679e5c2e6cc01e532e6ca00"
+    },
+    {
+      "owner": "0x18dc6c",
+      "ko": "해후",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d358",
+      "pointer": "0x9114700",
+      "encoded_hex": "e6abe62a00"
+    },
+    {
+      "owner": "0x18dc74",
+      "ko": "폭풍 속에서 빛나 줘",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d35f",
+      "pointer": "0x9114705",
+      "encoded_hex": "e4d9e62d01e5ece6cce6b401e39be6c401e52900"
+    },
+    {
+      "owner": "0x18dc7c",
+      "ko": "멘 오브 데스티니",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d36a",
+      "pointer": "0x9114719",
+      "encoded_hex": "e54101e69ae61f01e657e6c7e60ce6c500"
+    },
+    {
+      "owner": "0x18dc84",
+      "ko": "제타 발동",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d37d",
+      "pointer": "0x911472a",
+      "encoded_hex": "e68de64b01e642e69200"
+    },
+    {
+      "owner": "0x18dc8c",
+      "ko": "사일런트 보이스",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d385",
+      "pointer": "0x9114734",
+      "encoded_hex": "e6bde691e64ae69b01e684e0a3e6c700"
+    },
+    {
+      "owner": "0x18dc94",
+      "ko": "비욘드 더 타임",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d390",
+      "pointer": "0x9114744",
+      "encoded_hex": "e67ae537e69f01e61a01e64be5dd00"
+    },
+    {
+      "owner": "0x18dc9c",
+      "ko": "스탠드 업 투 더 빅토리",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d3a4",
+      "pointer": "0x9114753",
+      "encoded_hex": "e6c7e536e69f01e3a801e6b101e61a01e190e617e6bf00"
+    },
+    {
+      "owner": "0x18dca4",
+      "ko": "타올라라 투지 저주받은 숙명을 넘어",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d3c6",
+      "pointer": "0x911476a",
+      "encoded_hex": "e64be4d5e06ce06c01e6b1e0ab01e650e696e5bee6b801e35ce67be6c801e3bbe09800"
+    },
+    {
+      "owner": "0x18dcac",
+      "ko": "저스트 커뮤니케이션",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d3df",
+      "pointer": "0x911478d",
+      "encoded_hex": "e650e6c7e69b01e565e53ce6c5e4c2e0a3e39300"
+    },
+    {
+      "owner": "0x18dcb4",
+      "ko": "드림스",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d3f9",
+      "pointer": "0x91147a1",
+      "encoded_hex": "e69fe421e6c700"
+    },
+    {
+      "owner": "0x18dcbc",
+      "ko": "턴 에이 턴",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d403",
+      "pointer": "0x91147a8",
+      "encoded_hex": "e65a01e6cce0a301e65a00"
+    },
+    {
+      "owner": "0x18dcc4",
+      "ko": "달의 고치",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d40b",
+      "pointer": "0x91147b3",
+      "encoded_hex": "e595e6c901e6b7e62b00"
+    },
+    {
+      "owner": "0x18dccc",
+      "ko": "그렇게 함께였는데",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d412",
+      "pointer": "0x91147bd",
+      "encoded_hex": "e6bce542e6ac01e685e546e64fe6cfe65700"
+    },
+    {
+      "owner": "0x18dcd4",
+      "ko": "멋쟁이 동료들",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d41e",
+      "pointer": "0x91147cf",
+      "encoded_hex": "e2ece592e0a301e692e698e65600"
+    },
+    {
+      "owner": "0x18dcdc",
+      "ko": "암운",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d428",
+      "pointer": "0x91147dd",
+      "encoded_hex": "e391e62c00"
+    },
+    {
+      "owner": "0x18dce4",
+      "ko": "어둠의 팔",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d42d",
+      "pointer": "0x91147e2",
+      "encoded_hex": "e098e544e6c901e30600"
+    },
+    {
+      "owner": "0x18dcec",
+      "ko": "허공에 울려 퍼지다",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d433",
+      "pointer": "0x91147ec",
+      "encoded_hex": "e49de6aae6cc01e4dde65f01e599e0abe06200"
+    },
+    {
+      "owner": "0x18dcf4",
+      "ko": "밤이 밝아올 때",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d43c",
+      "pointer": "0x91147ff",
+      "encoded_hex": "e539e0a301e53ae093e4d501e5b800"
+    },
+    {
+      "owner": "0x18dcfc",
+      "ko": "전사의 휴식",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d445",
+      "pointer": "0x911480e",
+      "encoded_hex": "e6cde6bde6c901e0e9e59000"
+    },
+    {
+      "owner": "0x18dd04",
+      "ko": "데터미네이션",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d44d",
+      "pointer": "0x911481a",
+      "encoded_hex": "e657e653e69ce66fe0a3e39300"
+    },
+    {
+      "owner": "0x18dd0c",
+      "ko": "인베이드",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d456",
+      "pointer": "0x9114827",
+      "encoded_hex": "e6b0e611e0a3e69f00"
+    },
+    {
+      "owner": "0x18dd14",
+      "ko": "전투 행진곡",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d45d",
+      "pointer": "0x9114830",
+      "encoded_hex": "e6cde6b101e59ce622e14c00"
+    },
+    {
+      "owner": "0x18dd1c",
+      "ko": "도그파이트",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d473",
+      "pointer": "0x911483c",
+      "encoded_hex": "e6bbe6bce672e0a3e69b00"
+    },
+    {
+      "owner": "0x18dd24",
+      "ko": "프리세션",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d47b",
+      "pointer": "0x9114847",
+      "encoded_hex": "e0d9e6bfe660e39300"
+    },
+    {
+      "owner": "0x18dd2c",
+      "ko": "프로그램 오버",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d483",
+      "pointer": "0x9114850",
+      "encoded_hex": "e0d9e6cae6bce0dd01e69ae66400"
+    },
+    {
+      "owner": "0x18dd34",
+      "ko": "커튼콜",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d48d",
+      "pointer": "0x911485e",
+      "encoded_hex": "e565e534e48400"
+    },
+    {
+      "owner": "0x18dd3c",
+      "ko": "코드 A/G",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d495",
+      "pointer": "0x9114865",
+      "encoded_hex": "e606e69f0103e0500900"
+    },
+    {
+      "owner": "0x18dd44",
+      "ko": "우주세기 어나더",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d4a1",
+      "pointer": "0x911486f",
+      "encoded_hex": "e6a3e696e660e6c601e098e6c4e61a00"
+    },
+    {
+      "owner": "0x18dd4c",
+      "ko": "에필로그",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d4ad",
+      "pointer": "0x911487f",
+      "encoded_hex": "e6cce57de6cae6bc00"
+    },
+    {
+      "owner": "0x18dd54",
+      "ko": "스탠바이",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d4b4",
+      "pointer": "0x9114888",
+      "encoded_hex": "e6c7e536e679e0a300"
+    },
+    {
+      "owner": "0x18dd5c",
+      "ko": "우레가 울리는 철의 요새",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d4c0",
+      "pointer": "0x9114891",
+      "encoded_hex": "e6a3e67fe03301e4dde6bfe6cf01e633e6c901e644e4e000"
+    },
+    {
+      "owner": "0x18dd64",
+      "ko": "솔리드 파이터",
+      "mode": 8,
+      "kind": "bgm",
+      "original_pointer": "0x818d4cc",
+      "pointer": "0x91148a9",
+      "encoded_hex": "e488e6bfe69f01e672e0a3e65300"
+    },
+    {
+      "owner": "0x1b195c",
+      "jp": "ジョニー・ライデン専用のザクⅡ。",
+      "ko": "조니 라이덴 전용 자쿠Ⅱ.",
+      "mode": 12,
+      "kind": "profile_description",
+      "original_pointer": "0x90505ab",
+      "pointer": "0x91148b7",
+      "encoded_hex": "e631e6c501e06ce0a3e4fa01e6cde69901e6c3e5c79e0300"
+    },
+    {
+      "owner": "0x79f54",
+      "ko": "해당 없음",
+      "mode": 8,
+      "kind": "empty_group",
+      "original_pointer": "0x9052831",
+      "pointer": "0x91148cf",
+      "encoded_hex": "e6abe64901e68ee6a900"
+    }
+  ],
+  "graphics": [
+    {
+      "source": "0xcc1558",
+      "target": "0x13b0000",
+      "owners": [
+        "0x79a88"
+      ],
+      "tiles": 61
+    },
+    {
+      "source": "0xcc1d70",
+      "target": "0x13b0c60",
+      "owners": [
+        "0x79cc8"
+      ],
+      "tiles": 142
+    },
+    {
+      "source": "0xcc2a80",
+      "target": "0x13b22e0",
+      "owners": [
+        "0x79d4c"
+      ],
+      "tiles": 28
+    },
+    {
+      "source": "0xcc2d04",
+      "target": "0x13b26b4",
+      "owners": [
+        "0x79ccc"
+      ],
+      "tiles": 24
+    },
+    {
+      "source": "0xcc3800",
+      "target": "0x13b2a08",
+      "owners": [
+        "0xd59450"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc38c4",
+      "target": "0x13b2b28",
+      "owners": [
+        "0xd59454"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc3990",
+      "target": "0x13b2c48",
+      "owners": [
+        "0xd59458"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc3a60",
+      "target": "0x13b2d68",
+      "owners": [
+        "0xd5945c"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc3b2c",
+      "target": "0x13b2e88",
+      "owners": [
+        "0xd59460"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc3bf8",
+      "target": "0x13b2fa8",
+      "owners": [
+        "0xd59464"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc3cc8",
+      "target": "0x13b30c8",
+      "owners": [
+        "0xd59468"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc3d9c",
+      "target": "0x13b31e8",
+      "owners": [
+        "0xd5946c"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc3e6c",
+      "target": "0x13b3308",
+      "owners": [
+        "0xd59470"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc3f38",
+      "target": "0x13b3428",
+      "owners": [
+        "0xd59474"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc4008",
+      "target": "0x13b3548",
+      "owners": [
+        "0xd59478"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc40d8",
+      "target": "0x13b3668",
+      "owners": [
+        "0xd5947c"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc4188",
+      "target": "0x13b3788",
+      "owners": [
+        "0xd59480"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc4264",
+      "target": "0x13b38a8",
+      "owners": [
+        "0xd59484"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc4340",
+      "target": "0x13b39c8",
+      "owners": [
+        "0xd59488"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc4424",
+      "target": "0x13b3ae8",
+      "owners": [
+        "0xd5948c"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc450c",
+      "target": "0x13b3c08",
+      "owners": [
+        "0xd59490"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc45ec",
+      "target": "0x13b3d28",
+      "owners": [
+        "0xd59494"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc46d0",
+      "target": "0x13b3e48",
+      "owners": [
+        "0xd59498"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc47b0",
+      "target": "0x13b3f68",
+      "owners": [
+        "0xd5949c"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc4890",
+      "target": "0x13b4088",
+      "owners": [
+        "0xd594a0"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc496c",
+      "target": "0x13b41a8",
+      "owners": [
+        "0xd594a4"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc4a48",
+      "target": "0x13b42c8",
+      "owners": [
+        "0xd594a8"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc4b24",
+      "target": "0x13b43e8",
+      "owners": [
+        "0xd594ac"
+      ],
+      "tiles": 8
+    },
+    {
+      "source": "0xcc055c",
+      "target": "0x13b4508",
+      "owners": [
+        "0x7a84c"
+      ],
+      "tiles": 99
+    }
+  ],
+  "note": "Short character names (+12) and BGM owners were absent from the merged translation inventory. Apply this supplement after the previous main TIP; profile first sentence uses the 12x12 font."
+}

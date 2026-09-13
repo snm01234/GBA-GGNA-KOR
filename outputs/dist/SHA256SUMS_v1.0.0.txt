@@ -1,0 +1,11 @@
+# SD Gundam G Generation Advance Korean Patch
+# Release: v1.0.0
+
+# Legally owned Japanese original source ROM (not distributed)
+75f362524e1278a77a6f165502f8363a943c8d23f69ecf518355ad8702483772  SD Gundam GGeneration Advance (Japan).gba
+
+# Public patch asset
+92217ba98120a1f2c679ff19f7e2b570e68bfdb417a359d0def15a8f5265576f  ggen_advance_ko_v1.0.0.xdelta
+
+# Expected patched ROM (not distributed)
+04447b928ebfc29ff33cd39aea9907f659da095279fa8ffcfc523b9ed329183e  SD Gundam GGeneration Advance (Korean).gba

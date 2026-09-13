@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "kind": "ggen_advance_legacy_asset_manifest",
+  "release_version": "1.0.0",
+  "archived_at_utc": "2026-09-13T01:51:18.607941+00:00",
+  "reason": "v1.0.0_public_repo_freeze_archive_superseded_backups_and_poc_roms",
+  "move_logs": [
+    "legacy/MOVE_LOG_20260913_v1_0_0_public_freeze.json",
+    "legacy/MOVE_LOG_20260913_translation_merged_cleanup.json"
+  ],
+  "categories": {
+    "main_tip_backups": {
+      "path": "legacy/main_tip_backups/",
+      "count": 7,
+      "note": "Superseded approved main TIP snapshots moved from integrated/main_tip/backups/"
+    },
+    "poc_outputs": {
+      "path": "legacy/poc/outputs/",
+      "folders": [
+        "20260913_blue_destiny",
+        "20260913_focus_frame",
+        "20260913_normal_shadow",
+        "20260913_situation_map",
+        "20260913_ss1_gradient",
+        "20260913_ss1_ss9_followup",
+        "20260913_stack_popup"
+      ],
+      "note": "Dated POC/test ROMs, captures, and parent-translation dumps"
+    },
+    "stale_dist": {
+      "path": "legacy/dist/",
+      "note": "Unversioned ggen_advance_ko_main_tip xdelta from an older cannon_open tip"
+    },
+    "analysis_translation_merged": {
+      "path": "legacy/analysis/",
+      "kept_in_analysis": "analysis/ggen_advance_translation_merged_20260913_blue_destiny.json",
+      "note": "Superseded ggen_advance_translation_merged snapshots; blue_destiny matches the v1.0.0 canonical JSON"
+    }
+  },
+  "not_legacy": {
+    "savebackup": {
+      "path": "savebackup/",
+      "gitignored": true,
+      "note": "Local play saves. Do not archive to legacy. Do not commit to GitHub."
+    }
+  },
+  "kept_local_not_in_git": [
+    "SD Gundam GGeneration Advance (Japan).gba",
+    "SD Gundam GGeneration Advance (Korean).gba",
+    "SD Gundam GGeneration Advance (Korean)_allclear.gba",
+    "savebackup/"
+  ],
+  "public_release": "outputs/dist/ggen_advance_ko_v1.0.0.xdelta"
+}

@@ -1,0 +1,59 @@
+{
+  "moved_at_utc": "2026-09-13T02:06:26.380409+00:00",
+  "reason": "keep_only_main_tip_translation_merged_snapshot_blue_destiny",
+  "release_version": "1.0.0",
+  "kept_in_analysis": [
+    "analysis/ggen_advance_translation_merged_20260913_blue_destiny.json"
+  ],
+  "canonical": "integrated/translation/ggen_advance_translation_merged.json",
+  "canonical_sha256": "a3c4a1aa3dfce194f9dc53f89a79503ac9937253db687c55d641e0cb2c3a0433",
+  "savebackup_correction": "savebackup/ remains a local play folder; do not archive to legacy; gitignored",
+  "moved_count": 9,
+  "moved": [
+    {
+      "original_path": "analysis/ggen_advance_translation_merged_20260913_cannon_open.json",
+      "destination": "legacy/analysis/ggen_advance_translation_merged_20260913_cannon_open.json",
+      "size": 93126545
+    },
+    {
+      "original_path": "analysis/ggen_advance_translation_merged_20260913_father_traitor.json",
+      "destination": "legacy/analysis/ggen_advance_translation_merged_20260913_father_traitor.json",
+      "size": 93124751
+    },
+    {
+      "original_path": "analysis/ggen_advance_translation_merged_20260913_heero_idcmd_mercy.json",
+      "destination": "legacy/analysis/ggen_advance_translation_merged_20260913_heero_idcmd_mercy.json",
+      "size": 93122728
+    },
+    {
+      "original_path": "analysis/ggen_advance_translation_merged_20260913_juggler_ball.json",
+      "destination": "legacy/analysis/ggen_advance_translation_merged_20260913_juggler_ball.json",
+      "size": 93126090
+    },
+    {
+      "original_path": "analysis/ggen_advance_translation_merged_20260913_planet_defenser.json",
+      "destination": "legacy/analysis/ggen_advance_translation_merged_20260913_planet_defenser.json",
+      "size": 93123263
+    },
+    {
+      "original_path": "analysis/ggen_advance_translation_merged_20260913_situation_map.json",
+      "destination": "legacy/analysis/ggen_advance_translation_merged_20260913_situation_map.json",
+      "size": 93134907
+    },
+    {
+      "original_path": "analysis/ggen_advance_translation_merged_20260913_ss1_ss9.json",
+      "destination": "legacy/analysis/ggen_advance_translation_merged_20260913_ss1_ss9.json",
+      "size": 93129693
+    },
+    {
+      "original_path": "analysis/ggen_advance_translation_merged_20260913_stage_entry_orbit.json",
+      "destination": "legacy/analysis/ggen_advance_translation_merged_20260913_stage_entry_orbit.json",
+      "size": 93124301
+    },
+    {
+      "original_path": "analysis/ggen_advance_translation_merged_20260913_term_fix.json",
+      "destination": "legacy/analysis/ggen_advance_translation_merged_20260913_term_fix.json",
+      "size": 93122535
+    }
+  ]
+}

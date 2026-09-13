@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "kind": "ggen_advance_translation_overlay",
+  "batch_id": "user-verified-yuu-voice-20260902",
+  "source_rom_sha256": "75f362524e1278a77a6f165502f8363a943c8d23f69ecf518355ad8702483772",
+  "manifest_identity_sha256": "d32912995ab5b351595c950ad7050076762480006e13d52f4dcb0c85d5e20d48",
+  "translation_source": "user_verified",
+  "review_status": "user_verified",
+  "records": [
+    {
+      "record_id": "GGA-MAPSCRIPT-00F64189",
+      "original_raw_sha256": "b3230775cd2c7ec365e69e7acc329bd4aa230b0459eed9f8cfe5c627f0306b67",
+      "owner_digest": "008a0e42137fc40fac7347832308f1a93094680264e400d7d6e57311a7b375f4",
+      "source_fingerprint": "4403869ec9a783b063037985b78b30ca26158cab16bfbb433eec565b9158bb1c",
+      "target_file_offset": "0x00F64189",
+      "translation_unit_id": "GGA-MAPSCRIPT-00F64189",
+      "context_bundle_id": "MAP-SCRIPT-SPEAKER-0x007F",
+      "translation_ko": "여자의…목소리……？",
+      "translation_segments": [
+        "여자의…목소리……？"
+      ],
+      "translation_status": "translated",
+      "translation_source": "user_verified",
+      "source_model": "",
+      "prompt_version": "",
+      "review_status": "user_verified",
+      "review_count": 1,
+      "reviewed_at": "2026-09-02",
+      "translator_notes": "user-verified correction: source is 女の…声……？; 0x03C7 is 女, while 壁 is the separate 0x060D slot",
+      "qa_status": "not_checked"
+    }
+  ]
+}

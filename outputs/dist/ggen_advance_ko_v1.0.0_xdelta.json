@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "kind": "ggen_advance_main_tip_xdelta",
+  "generated_by": "tools/make_ggen_advance_main_tip_xdelta.py",
+  "release_version": "1.0.0",
+  "name": "ggen_advance_ko_v1.0.0",
+  "method": "xdelta3_vcdiff_from_16mib_original_to_32mib_tip",
+  "xdelta3": {
+    "path": "tools/vendor/xdelta3.exe",
+    "armor": false,
+    "app_header": null,
+    "secondary": "disabled",
+    "vcd_header_indicator": "0x00",
+    "compatibility": "plain VCDIFF: no secondary compression and no application header; xdeltaUI/older xdelta3 friendly",
+    "level": 9,
+    "source_window": 16777216,
+    "target_window": 16777216,
+    "legacy_app_header": false
+  },
+  "original": {
+    "path": "SD Gundam GGeneration Advance (Japan).gba",
+    "size": 16777216,
+    "sha256": "75f362524e1278a77a6f165502f8363a943c8d23f69ecf518355ad8702483772"
+  },
+  "main_tip": {
+    "path": "SD Gundam GGeneration Advance (Korean).gba",
+    "size": 33554432,
+    "sha256": "04447b928ebfc29ff33cd39aea9907f659da095279fa8ffcfc523b9ed329183e"
+  },
+  "promotion_reason": "user_requested_blue_destiny_i_name_20260913",
+  "xdelta": {
+    "path": "outputs/dist/ggen_advance_ko_v1.0.0.xdelta",
+    "size": 772492,
+    "sha256": "92217ba98120a1f2c679ff19f7e2b570e68bfdb417a359d0def15a8f5265576f"
+  },
+  "embeds_original_rom": false,
+  "roundtrip_matches_main_tip": true,
+  "printhdrs": "VCDIFF version:               0\nVCDIFF header size:           5\nVCDIFF header indicator:      none\nVCDIFF secondary compressor:  lzma\nVCDIFF window number:         0\nVCDIFF window indicator:      VCD_SOURCE VCD_ADLER32 \nVCDIFF adler32 checksum:      8B49DDB6\nVCDIFF copy window length:    16777216\nVCDIFF copy window offset:    0\nVCDIFF delta encoding length: 83330\nVCDIFF target window length:  16777216\nVCDIFF data section length:   50930\nVCDIFF inst section length:   17435\nVCDIFF addr section length:   14948\n\nVCDIFF window number:         1\nVCDIFF window indicator:      VCD_SOURCE VCD_ADLER32 \nVCDIFF adler32 checksum:      DADEE784\nVCDIFF window at offset:      16777216\nVCDIFF copy window length:    16224273\nVCDIFF copy window offset:    552943\nVCDIFF delta encoding length: 689137\nVCDIFF target window length:  16777216\nVCDIFF data section length:   312437\nVCDIFF inst section length:   155440\nVCDIFF addr section length:   221242",
+  "apply": [
+    "Use only a legally owned Japanese original 16 MiB GBA ROM, and keep a clean backup.",
+    "Verify original SHA-256 == 75f362524e1278a77a6f165502f8363a943c8d23f69ecf518355ad8702483772",
+    "Apply with Delta Patcher (xdelta3) or:",
+    "python tools/apply_ggen_advance_main_tip_xdelta.py --original <original.gba> --xdelta outputs/dist/ggen_advance_ko_v1.0.0.xdelta --out <output.gba>",
+    "Expected output SHA-256 == 04447b928ebfc29ff33cd39aea9907f659da095279fa8ffcfc523b9ed329183e"
+  ]
+}

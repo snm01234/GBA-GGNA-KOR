@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "kind": "ggen_advance_battle_event_dialogue_translation",
+  "batch_id": "battle-event-dialogue-complete-20260831",
+  "source_rom_sha256": "75f362524e1278a77a6f165502f8363a943c8d23f69ecf518355ad8702483772",
+  "table_file_offset": "0x00D34588",
+  "table_shape": [256, 23],
+  "translation_source": "curated_project_data",
+  "review_status": "draft",
+  "records": [
+    {"row": 1, "column": 1, "source_segments": ["アークエンジェルは……", "落とさせない！", ""], "translation_segments": ["아크엔젤은……", "격추시키지 않아！", ""]},
+    {"row": 1, "column": 2, "source_segments": ["やめろぉぉーーっ！", ""], "translation_segments": ["그만둬어어엇！", ""]},
+    {"row": 1, "column": 3, "source_segments": ["……なっ！？", ""], "translation_segments": ["……뭐라고！？", ""]},
+    {"row": 1, "column": 4, "source_segments": ["オルバ！？……ええい！", ""], "translation_segments": ["올바！？……에잇！", ""]},
+    {"row": 1, "column": 5, "source_segments": ["うわぁぁーーっ！", ""], "translation_segments": ["우와아아앗！", ""]},
+    {"row": 1, "column": 6, "source_segments": ["こ、この力は……！", ""], "translation_segments": ["이, 이 힘은……！", ""]},
+
+    {"row": 2, "column": 1, "source_segments": ["新型のモビルスーツがなんだ！", ""], "translation_segments": ["신형 모빌슈트가 뭐냐！", ""]},
+    {"row": 2, "column": 2, "source_segments": ["うわぁぁぁっ！", ""], "translation_segments": ["우와아아앗！", ""]},
+    {"row": 2, "column": 3, "source_segments": ["行けるぞ……！", ""], "translation_segments": ["해볼 만해……！", ""]},
+    {"row": 2, "column": 4, "source_segments": ["やるな……", ""], "translation_segments": ["제법이군……", ""]},
+    {"row": 2, "column": 5, "source_segments": ["ザクとは違うのだよ！", "ザクとは！！", ""], "translation_segments": ["자쿠와는 다르다고！", "자쿠와는！！", ""]},
+    {"row": 2, "column": 6, "source_segments": ["こ、こいつ、違うぞ……！", "", "ザクなんかとは", "装甲もパワーも！！", ""], "translation_segments": ["이, 이 녀석, 다르다……！", "", "자쿠 따위와는", "장갑도 파워도！！", ""]},
+
+    {"row": 3, "column": 1, "source_segments": ["オルテガ、マッシュ！", "", "ジェットストリームアタックを", "かけるぞ！", "", "おう！", "", "オレたちの力、見せてやろうぜ", ""], "translation_segments": ["오르테가, 매시！", "", "제트 스트림 어택을", "건다！", "", "좋아！", "", "우리 힘을 보여 주자！", ""]},
+    {"row": 3, "column": 2, "source_segments": ["うわっ！！", ""], "translation_segments": ["우왓！！", ""]},
+    {"row": 3, "column": 3, "source_segments": ["うわぁぁぁぁ！", ""], "translation_segments": ["우와아아앗！", ""]},
+    {"row": 3, "column": 4, "source_segments": ["行けるぞ！ もう一度だ！", ""], "translation_segments": ["할 수 있어！ 한 번 더！", ""]},
+    {"row": 3, "column": 5, "source_segments": ["オレを踏み台にしたぁ！？", ""], "translation_segments": ["날 발판으로 삼았어！？", ""]},
+    {"row": 3, "column": 6, "source_segments": ["なっ……！？", ""], "translation_segments": ["뭐……！？", ""]},
+    {"row": 3, "column": 7, "source_segments": ["くっ…来るのか！？", ""], "translation_segments": ["큭… 오는 건가！？", ""]},
+    {"row": 3, "column": 8, "source_segments": ["何を！……こいつ！", ""], "translation_segments": ["뭐라고！……이 녀석！", ""]},
+
+    {"row": 4, "column": 1, "source_segments": ["やらせるかぁっ！", ""], "translation_segments": ["그렇게 두진 않아앗！", ""]},
+    {"row": 4, "column": 2, "source_segments": ["いくら装甲の厚い", "ガンダムといっても、", "", "これだけ近ければ", "もちはすまい？", ""], "translation_segments": ["아무리 장갑이 두꺼운", "건담이라 해도,", "", "이렇게 가까우면", "버티진 못하겠지？", ""]},
+    {"row": 4, "column": 3, "source_segments": ["やめろぉぉーーっ！", ""], "translation_segments": ["그만둬어어엇！", ""]},
+    {"row": 4, "column": 4, "source_segments": ["……くっ！！", ""], "translation_segments": ["……큭！！", ""]},
+    {"row": 4, "column": 5, "source_segments": ["うわぁぁぁっ！", ""], "translation_segments": ["우와아아앗！", ""]},
+    {"row": 4, "column": 6, "source_segments": ["アナタ……", "今、おそばに……", ""], "translation_segments": ["당신……", "지금, 곁으로……", ""]},
+
+    {"row": 5, "column": 1, "source_segments": ["赤いモビルスーツだと！？", "……なめるな！！", ""], "translation_segments": ["붉은 모빌슈트라고！？", "……얕보지 마라！！", ""]},
+    {"row": 5, "column": 2, "source_segments": ["ふふ……", ""], "translation_segments": ["후후……", ""]},
+    {"row": 5, "column": 3, "source_segments": ["……甘いな！", ""], "translation_segments": ["……무르군！", ""]},
+
+    {"row": 6, "column": 1, "source_segments": ["さようなら、アイナ", "嫌いではなかった……", ""], "translation_segments": ["잘 있어, 아이나", "싫어하진 않았다……", ""]},
+    {"row": 6, "column": 2, "source_segments": ["アイナ…もう手段を選ばない", "オレは君の兄さんを殺す", "", "……………", "", "さよなら、兄さん……", ""], "translation_segments": ["아이나…이젠 수단을 안 가려", "네 오빠는 내가 죽이겠어", "", "……………", "", "잘 있어, 오라버니……", ""]},
+    {"row": 6, "column": 3, "source_segments": ["私の夢……受け取れーーっ！", ""], "translation_segments": ["내 꿈을…… 받아라앗！", ""]},
+
+    {"row": 7, "column": 1, "source_segments": ["……っ！！", ""], "translation_segments": ["……윽！！", ""]},
+    {"row": 7, "column": 2, "source_segments": ["ララァ！！", "ヤツとの戯言はやめろ！！", ""], "translation_segments": ["라라아！！", "그놈과의 헛소린 그만둬！！", ""]},
+    {"row": 7, "column": 3, "source_segments": ["……シャアかっ！！", ""], "translation_segments": ["……샤아냐！！", ""]},
+    {"row": 7, "column": 4, "source_segments": ["沈め！……ガンダム！！", ""], "translation_segments": ["가라앉아라！……건담！！", ""]},
+    {"row": 7, "column": 5, "source_segments": ["……なにっ！？", ""], "translation_segments": ["……뭐라고！？", ""]},
+    {"row": 7, "column": 6, "source_segments": ["くっ……！！", ""], "translation_segments": ["큭……！！", ""]},
+    {"row": 7, "column": 7, "source_segments": ["……シャアっ！！", ""], "translation_segments": ["……샤아！！", ""]},
+    {"row": 7, "column": 8, "source_segments": ["……いけないっ！！", ""], "translation_segments": ["……안 돼！！", ""]},
+
+    {"row": 8, "column": 1, "source_segments": ["これで最期だ……", "", "……ムウ・ラ・フラガ！", ""], "translation_segments": ["이걸로 끝이다……", "", "……무 라 프라가！", ""]},
+    {"row": 8, "column": 2, "source_segments": ["……くっ！", "", "ラウ・ル・クルーゼ！", ""], "translation_segments": ["……큭！", "", "라우 르 크루제！", ""]},
+    {"row": 8, "column": 3, "source_segments": ["なにっ！？", "", "貴様のどこに", "こんな力が……！", "", "あいにくだったな……", "ラウ・ル・クルーゼ……", "", "俺は…不可能を……", "可能にする……", "", "……………", "", "……やっぱ、ガラじゃねえか", ""], "translation_segments": ["뭐라고！？", "", "네놈 어디에", "그런 힘이……！", "", "유감이군……", "라우 르 크루제……", "", "난…불가능을……", "가능하게 한다……", "", "……………", "", "……역시 내 스타일은 아냐", ""]},
+
+    {"row": 9, "column": 1, "source_segments": ["アムロ！", "これ以上はやらせん！", ""], "translation_segments": ["아무로！", "더는 못 하게 하겠다！", ""]},
+    {"row": 9, "column": 2, "source_segments": ["ララァが死んだ時の苦しみ！", "存分に思い出せっ！！", ""], "translation_segments": ["라라아가 죽던 때의 고통！", "실컷 떠올려라！！", ""]},
+    {"row": 9, "column": 3, "source_segments": ["シャア……情けないヤツっ！", "", "愚民どもにその才能を", "利用されている者が何を！", ""], "translation_segments": ["샤아……한심한 녀석！", "", "우민들에게 그 재능을", "이용당하는 자가 무슨！", ""]},
+    {"row": 9, "column": 4, "source_segments": ["シャアっ！！", ""], "translation_segments": ["샤아！！", ""]},
+    {"row": 9, "column": 5, "source_segments": ["貴様がいなければ……！", ""], "translation_segments": ["네놈만 없었더라면……！", ""]},
+    {"row": 9, "column": 6, "source_segments": ["キサマ程の男が", "なんて器量の小さい……！", ""], "translation_segments": ["네놈 정도의 사내가", "어찌 그리 속 좁은가……！", ""]}
+  ]
+}

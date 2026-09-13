@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "kind": "ggen_advance_approved_main_tip",
+  "status": "approved_main_tip",
+  "canonical_path": "SD Gundam GGeneration Advance (Korean).gba",
+  "size": 33554432,
+  "sha256": "04447b928ebfc29ff33cd39aea9907f659da095279fa8ffcfc523b9ed329183e",
+  "approved_at_utc": "2026-09-13T00:59:20.836144+00:00",
+  "release_version": "1.0.0",
+  "promotion_reason": "user_requested_blue_destiny_i_name_20260913",
+  "source_poc": {
+    "path": "legacy/poc/outputs/20260913_blue_destiny/ggen_blue_destiny_20260913.gba",
+    "manifest_path": "legacy/poc/outputs/20260913_blue_destiny/manifest.json",
+    "sha256": "04447b928ebfc29ff33cd39aea9907f659da095279fa8ffcfc523b9ed329183e",
+    "verification": {
+      "result": "PASS",
+      "all_five_owner_roundtrips": true,
+      "physical_glyphs": true,
+      "width_pixels": 72,
+      "unrelated_bytes_preserved": true,
+      "runtime": "Actual ROM font raster; supplied states do not show BD I; no live emulator verification"
+    }
+  },
+  "translation_source": {
+    "path": "integrated/translation/ggen_advance_translation_merged.json",
+    "sha256": "a3c4a1aa3dfce194f9dc53f89a79503ac9937253db687c55d641e0cb2c3a0433"
+  },
+  "previous_main_tip_backup": {
+    "path": "legacy/main_tip_backups/20260913T005919Z_user_requested_blue_destiny_i_name_20260913/SD Gundam GGeneration Advance (Korean).gba",
+    "sha256": "37e1ef1b66f34ebf27ede05c1cc26122a884345073037a3709bfa6e4a6503c26",
+    "size": 33554432,
+    "manifest_path": "legacy/main_tip_backups/20260913T005919Z_user_requested_blue_destiny_i_name_20260913/ggen_advance_main_tip_manifest.json"
+  },
+  "policy": {
+    "approved_output_filename_is_fixed": "SD Gundam GGeneration Advance (Korean).gba",
+    "poc_outputs_remain_date_stamped": true,
+    "promotion_is_the_only_canonical_writer": true,
+    "parent_project_references_forbidden": true
+  }
+}

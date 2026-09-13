@@ -1,0 +1,113 @@
+# ------------------------------------------------------------
+# SD Gundam G Generation Advance Korean patch
+# Public repository policy
+# ------------------------------------------------------------
+
+# Never commit game ROMs, patched ROMs, or saves.
+*.gba
+*.agb
+*.mb
+*.rom
+*.bin
+*.sav
+*.sav_
+*.srm
+*.eep
+*.ss[0-9]
+*.ss1[0-9]
+*.state
+*.State
+*.SaveRAM
+*.sgm
+*.clt
+*.backup
+
+# Emulator / local runtime folders. savebackup stays on disk for play; never commit.
+mGBA-*/
+BizHawk-*/
+retroarch*/
+savebackup/
+
+# Python / Node caches and local installs.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+node_modules/
+
+# IDE / assistant / OS junk.
+.cursor/
+.kiro/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+NUL
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
+~$*
+
+# Scratch and machine-local worktrees.
+.artifact_work/
+%TEMP%/
+tools/out/
+tools/vendor/*.exe
+
+# Licensed/local font archives should not be redistributed accidentally.
+assets/fonts/
+
+# Experimental / non-canonical glyph dumps.
+font_candidates/
+rle_assets/
+
+# Forensic analysis snapshots are not required to apply or rebuild the
+# v1.0.0 xdelta. The canonical translation source is integrated/translation/.
+analysis/
+
+# Internal cumulative development log (source excerpts / forensic notes).
+docs/GGENERATION_ADVANCE_KO_PROGRESS.md
+docs/GGENERATION_ADVANCE_ALL_SESSION_LIST.md
+
+# Generated workbook inspect dumps and translation previews.
+*.inspect.ndjson
+integrated/translation/previews/
+
+# Root-level one-off probes that are not part of the main-TIP pipeline.
+/analyze_ggen_advance_dictionary.py
+/analyze_ggen_advance_rom.py
+/analyze_ggen_advance_text_engine.py
+/probe_ggen_advance_text_tables.py
+/render_gba_rle_assets.py
+/render_ggen_advance_fonts.py
+/scan_gba_font_candidates.py
+/rom_analysis.json
+/text_table_probe.json
+
+# Dated POC outputs, captures, and parent-translation dumps.
+# Public release assets are explicitly allowed from outputs/dist below.
+outputs/*
+!outputs/dist/
+outputs/dist/*
+
+# Public v1.0.0 release assets.
+!outputs/dist/ggen_advance_ko_v1.0.0.xdelta
+!outputs/dist/ggen_advance_ko_v1.0.0_xdelta.json
+!outputs/dist/ggen_advance_ko_v1.0.0_XDELTA_README.md
+!outputs/dist/SHA256SUMS_v1.0.0.txt
+
+# Legacy archives (old main-TIP backups, POC/test ROMs, stale dist).
+# Keep only policy / manifest text in Git. savebackup is local, not legacy.
+legacy/*
+!legacy/README.md
+!legacy/legacy_asset_manifest.json
+!legacy/MOVE_LOG_20260913_translation_merged_cleanup.json
+
+# Main-TIP rollback copies are local-only; promote recreates this folder.
+integrated/main_tip/backups/
